@@ -5,8 +5,8 @@ export default [
     cities: [
       {
         name: "Lisboa",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 789",
         phone2: "+999 123 456 789",
@@ -14,8 +14,8 @@ export default [
       },
       {
         name: "Porto",
-        address1: "Edf. Trindade Domus",
-        address2: "Rua Alferes Malheiro 97, piso 2",
+        address1: "Edf. Gold Domus",
+        address2: "Rua Alfredo Muralha 99, piso 5",
         number: "9999-059",
         phone1: "99 12 3456789",
         phone2: "",
@@ -23,7 +23,7 @@ export default [
       },
       {
         name: "Açores",
-        address1: "Rua Meste do Campo 7",
+        address1: "Rua do Meste 97",
         address2: "",
         number: "9760-498 Praia da Vitoria",
         phone1: "+123 456 789 000",
@@ -38,8 +38,8 @@ export default [
     cities: [
       {
         name: "Madrid",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -53,8 +53,8 @@ export default [
     cities: [
       {
         name: "Aix-en-Provence",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -62,8 +62,8 @@ export default [
       },
       {
         name: "Bordeaux",
-        address1: "Edf. Trindade Domus",
-        address2: "Rua Alferes Malheiro 97, piso 2",
+        address1: "Edf. Gold Domus",
+        address2: "Rua Alfredo Muralha 99, piso 5",
         number: "9999-059",
         phone1: "51 22 6003027",
         phone2: "",
@@ -71,7 +71,7 @@ export default [
       },
       {
         name: "Cherbourg",
-        address1: "Rua Meste do Campo 7",
+        address1: "Rua do Meste 97",
         address2: "",
         number: "9760-498 Praia da Vitoria",
         phone1: "+123 456 789 000",
@@ -80,8 +80,8 @@ export default [
       },
       {
         name: "Lyon",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -89,8 +89,8 @@ export default [
       },
       {
         name: "Nantes",
-        address1: "Edf. Trindade Domus",
-        address2: "Rua Alferes Malheiro 97, piso 2",
+        address1: "Edf. Gold Domus",
+        address2: "Rua Alfredo Muralha 99, piso 5",
         number: "9999-059",
         phone1: "51 22 6003027",
         phone2: "",
@@ -98,7 +98,7 @@ export default [
       },
       {
         name: "Paris",
-        address1: "Rua Meste do Campo 7",
+        address1: "Rua do Meste 97",
         address2: "",
         number: "9760-498 Praia da Vitoria",
         phone1: "+123 456 789 000",
@@ -113,8 +113,8 @@ export default [
     cities: [
       {
         name: "Milão",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -128,8 +128,8 @@ export default [
     cities: [
       {
         name: "Basileia",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -137,8 +137,8 @@ export default [
       },
       {
         name: "Lausanne",
-        address1: "Edf. Trindade Domus",
-        address2: "Rua Alferes Malheiro 97, piso 2",
+        address1: "Edf. Gold Domus",
+        address2: "Rua Alfredo Muralha 99, piso 5",
         number: "9999-059",
         phone1: "51 22 6003027",
         phone2: "",
@@ -146,7 +146,7 @@ export default [
       },
       {
         name: "Zurique",
-        address1: "Rua Meste do Campo 7",
+        address1: "Rua do Meste 97",
         address2: "",
         number: "9760-498 Praia da Vitoria",
         phone1: "+123 456 789 000",
@@ -161,8 +161,8 @@ export default [
     cities: [
       {
         name: "Bruxelas",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -176,8 +176,8 @@ export default [
     cities: [
       {
         name: "Frankfurt",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -185,8 +185,8 @@ export default [
       },
       {
         name: "Mannheim",
-        address1: "Edf. Trindade Domus",
-        address2: "Rua Alferes Malheiro 97, piso 2",
+        address1: "Edf. Gold Domus",
+        address2: "Rua Alfredo Muralha 99, piso 5",
         number: "9999-059",
         phone1: "51 22 6003027",
         phone2: "",
@@ -194,7 +194,7 @@ export default [
       },
       {
         name: "Munique",
-        address1: "Rua Meste do Campo 7",
+        address1: "Rua do Meste 97",
         address2: "",
         number: "9760-498 Praia da Vitoria",
         phone1: "+123 456 789 000",
@@ -209,8 +209,8 @@ export default [
     cities: [
       {
         name: "Amsterdão",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -224,8 +224,8 @@ export default [
     cities: [
       {
         name: "Copenhaga",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
@@ -239,8 +239,8 @@ export default [
     cities: [
       {
         name: "Estocolmo",
-        address1: "Edf. Picoas Plaza Rua do Viriato",
-        address2: "13E Núcleo 6, 3º Dto",
+        address1: "Edf. Challenge Plaza Rua do Padre",
+        address2: "99E Núcleo 99, 13º Dto",
         number: "9999-123",
         phone1: "+999 123 456 680",
         phone2: "+999 123 456 690",
